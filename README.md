@@ -1,1 +1,1 @@
-# neural-network-for-dummies-experiments
+# Neural Network for Dummies (Experiments)
